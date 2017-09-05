@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string-array name="currencyList">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>CZK</item>
+        <item>RUB</item>
+        <item>GBR</item>
+        <item>UAH</item>
+    </string-array>
+</resources>
